@@ -30,3 +30,12 @@ desktop_source/desktop-source-test
 
 *.a
 *.so
+wifi github.IAB
+wifi github.IAD
+wifi github.IMB
+wifi github.IMD
+wifi github.PFI
+wifi github.PO
+wifi github.PRI
+wifi github.PR
+wifi github.PS
